@@ -30,6 +30,8 @@ img {
   margin-left:10%;
   margin-right:10%;
   margin-bottom:20%;
+  vertical-align:center;
+  text-align:center;
 }
 .row{
   position:relative;
