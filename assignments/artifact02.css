@@ -46,10 +46,10 @@ img {
   background-color:#787878;
   float:left;
 }
-#clear{
+.clear{
   clear:both; 
 }
-#footer {
+.footer {
   border:solid 1px;
   padding: 10px;
   margin:10px;
