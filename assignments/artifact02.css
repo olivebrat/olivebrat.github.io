@@ -50,14 +50,9 @@ img {
   clear:both; 
 }
 #footer {
-  position:fixed;
-  top:0px;
-  left:0px; 
   padding:10px;
   margin-top:10px;
   margin-bottom:10px;
-  width:100%;
   background-color:#ccff00;
   text-align:center; 
-  z-index:10;
 }
