@@ -4,7 +4,8 @@
 				text-align: center;}
 			body {
 				width: 90%;
-				margin: 0 auto;}
+				margin: 0 auto;
+				background-image: url("https://www.moma.org/learn/moma_learning/_assets/www.moma.org/wp/moma_learning/wp-content/uploads/2015/01/Lam_The-Jungle-378x395.jpg");}
 			#content {
 				overflow: auto;}
 			#nav, #feature, #footer {
