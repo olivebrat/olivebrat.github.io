@@ -7,6 +7,10 @@
 				margin: 0 auto;
 				background-image: url("https://chainimage.com/images/color-textures-texture-design-hd-wallpaper.jpg");
  				background-repeat:no-repeat;}
+			h1 {
+				font-family: 'SpaceMeatballRegular'; 
+				font-weight: normal; 
+				font-style: normal;}
 			#content {
 				overflow: auto;}
 			#nav, #feature, #footer {
@@ -21,16 +25,24 @@
 				display: inline;
 				padding: 0.5em;}
 			#nav, #footer {
-				background-color: #efefef;
 				padding: 0.5em 0;}
 			#feature, .article {
 				height: 10em;
-				margin-bottom: 1em;
-				background-color: #efefef;}
+				margin-bottom: 1em;}
 			#feature {
 				background-color: #dbaf00;
 				background-image: url("https://hdwallpaperspage.com/full/39039.jpg");
 				background-size:contain;
 				background-position: right;
 				background-repeat:no-repeat;}
+			.column1 {
+				background-color: #d8ce5b;}
+			.column2 {
+				background-color: #bab043;}
+			.column3 {
+				background-color: #bc9018;}
+			#footer {
+				background-color: #dbb52b;}
+			
+			
 
