@@ -5,13 +5,14 @@ html {
   overflow: hidden;
 }
 body { 
-  font-family: Arial, sans-serif;
+  font-family: Times, sans-serif;
   margin: 0;
   padding: 0; 
-  background: #e5e5e5;
+  background: #f9c0f3;
   color: #3f3f3f;
   font-size: 16px;
   line-height: 24px;
+  height: auto
 }
 
 a { color: #000088; }
@@ -89,7 +90,7 @@ a:hover { color: #880000; }
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
 
-  background: #3f3f3f;
+  background: #910054;
   color: #fff;
   padding: 20px;
   border-top: 1px solid #1f1f1f;
