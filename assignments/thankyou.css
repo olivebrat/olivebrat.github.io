@@ -1,5 +1,5 @@
 html {
-  background-image: url("https://c1.staticflickr.com/5/4360/36563932652_e8ba2cfc27_b.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Thank-you-word-cloud.jpg/320px-Thank-you-word-cloud.jpg");
   background-size: cover;
   height: 100%;
   overflow: hidden;
@@ -8,10 +8,7 @@ body {
   font-family: Times, sans-serif;
   margin: 0;
   padding: 0; 
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Thank-you-word-cloud.jpg/320px-Thank-you-word-cloud.jpg");
-  background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  background: #f9c0f3;
   color: #3f3f3f;
   font-size: 16px;
   line-height: 24px;
