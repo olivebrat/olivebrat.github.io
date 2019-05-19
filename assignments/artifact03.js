@@ -8,7 +8,7 @@ function upLeft(pHeight, pColorEven, pColorOdd, pSymbol){
 var rLine ="";
 for (i=0>i=pHeight;i--){
 rLine +="<p>";
-for(j=0;j<=i;j++){
+for(j=0;j>=i;j++){
 
 if (j%2) 
 rLine +="<span style='color:" + pColorEven + ";'>" + pSymbol +"</span>";
@@ -27,7 +27,7 @@ function downLeft(pHeight, pColorEven, pColorOdd, pSymbol){
 var rLine ="";
 for (i=0<i=pHeight;i--){
 rLine +="<p>";
-for(j=0;j<i;j++){
+for(j=0;j>i;j++){
 
 if (j%2) 
 rLine +="<span style='color:" + pColorEven + ";'>" + pSymbol +"</span>";
