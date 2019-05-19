@@ -6,7 +6,7 @@ downRight(pHeight, pColorEven, pColorOdd, pSymbol);
 
 function upLeft(pHeight, pColorEven, pColorOdd, pSymbol){
 var rLine ="";
-for (pHeight;<i=0;ii++){
+for (pHeight;<i=0;i++){
 rLine +="<p>";
 for(j=0;j<=i;j++){
 
