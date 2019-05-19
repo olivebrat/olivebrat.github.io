@@ -6,7 +6,7 @@ downRight(pHeight, pColorEven, pColorOdd, pSymbol);
 
 function upLeft(pHeight, pColorEven, pColorOdd, pSymbol){
 var rLine ="";
-for (i=pHeight<i=0;i++){
+for (i=0>i=pHeight;i--){
 rLine +="<p>";
 for(j=0;j<=i;j++){
 
@@ -44,7 +44,7 @@ document.getElementById("downLeft").innerHTML = rLine;
 
 function upRight(pHeight, pColorEven, pColorOdd, pSymbol){
 var rLine ="";
-for (i=0<i=pHeight;i++){
+for (i=pHeight;i > 0;i--){
 rLine +="<p>";
 for(j=0;j<=i;j++){
 
